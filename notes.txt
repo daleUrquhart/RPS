@@ -1,0 +1,10 @@
+45 seconds
+A demonstration prgram made for the Tkinter Library is this rock paper scissors game. 
+20s demo
+20s game
+
+
+
+Create a simple application that allows a user to play a game of paper rock, 
+scissors using an appropriately designed interface. Demonstrate the game and provide a brief commentary on how 
+difficult it was to create. approx. 45 seconds
